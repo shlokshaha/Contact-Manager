@@ -2,18 +2,8 @@
   "contacts": [
     {
       "id": "0d700ce7-e92d-4b92-a006-eb2e6fa5011f",
-      "name": "Shlok Shaha",
-      "email": "shlokshaha1421@gmail.com"
-    },
-    {
-      "id": "d9c4ae55-e3c2-4936-9c3f-0e6389cc236f",
-      "name": "shlok1421",
-      "email": "shlokshaha1421@gmail.com"
-    },
-    {
-      "id": "a9a73d11-0093-458f-9482-00332636dd2e",
-      "name": "xyz",
-      "email": "shlokshaha1421@gmail.com"
+      "name": "Shlok",
+      "email": "shlok@gmail.com"
     }
   ]
 }
